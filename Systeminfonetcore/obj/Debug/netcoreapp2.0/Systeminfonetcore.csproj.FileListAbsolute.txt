@@ -1,0 +1,11 @@
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\obj\Debug\netcoreapp2.0\Systeminfonetcore.csprojResolveAssemblyReference.cache
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\obj\Debug\netcoreapp2.0\Systeminfonetcore.csproj.CoreCompileInputs.cache
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\obj\Debug\netcoreapp2.0\Systeminfonetcore.AssemblyInfoInputs.cache
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\obj\Debug\netcoreapp2.0\Systeminfonetcore.AssemblyInfo.cs
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\bin\Debug\netcoreapp2.0\Systeminfonetcore.deps.json
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\bin\Debug\netcoreapp2.0\Systeminfonetcore.runtimeconfig.json
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\bin\Debug\netcoreapp2.0\Systeminfonetcore.runtimeconfig.dev.json
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\bin\Debug\netcoreapp2.0\Systeminfonetcore.dll
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\bin\Debug\netcoreapp2.0\Systeminfonetcore.pdb
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\obj\Debug\netcoreapp2.0\Systeminfonetcore.dll
+E:\Proyectos_Visual\Systeminfonetcore\Systeminfonetcore\obj\Debug\netcoreapp2.0\Systeminfonetcore.pdb
