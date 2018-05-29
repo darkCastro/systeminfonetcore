@@ -9,7 +9,7 @@ namespace Systeminfonetcore
         {
             if (OperatingSystem.IsWindows())
             {   
-                Console.WriteLine("cambio #2  ");
+                Console.WriteLine("Estoy en windows 10   ");
                 Console.Read();
             }
 
