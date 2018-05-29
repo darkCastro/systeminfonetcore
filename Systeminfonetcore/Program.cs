@@ -8,10 +8,8 @@ namespace Systeminfonetcore
         static void Main(string[] args)
         {
             if (OperatingSystem.IsWindows())
-            {             
-
+            {   
                 Console.WriteLine("cambio #2  ");
-
                 Console.Read();
             }
 
