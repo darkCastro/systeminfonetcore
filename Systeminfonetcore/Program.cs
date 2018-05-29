@@ -10,6 +10,8 @@ namespace Systeminfonetcore
             if (OperatingSystem.IsWindows())
             {   
                 Console.WriteLine("Estoy en windows 10   ");
+                Console.WriteLine("Esperando tecla  ");
+
                 Console.Read();
             }
 
