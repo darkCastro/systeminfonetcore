@@ -10,7 +10,7 @@ namespace Systeminfonetcore
             if (OperatingSystem.IsWindows())
             {             
 
-                Console.WriteLine("ESTOY TRABAJANDO CON WINDOWS ..!! ");
+                Console.WriteLine("cambio #2  ");
 
                 Console.Read();
             }
